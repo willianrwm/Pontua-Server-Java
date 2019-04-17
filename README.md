@@ -1,4 +1,4 @@
 # pontua
 
--Servidor REST desenvolvido em JAVA
+-Web Service REST desenvolvido em JAVA<br>
 -Utilizado para realizar controle de pontuação de clientes
